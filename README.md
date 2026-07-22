@@ -28,7 +28,7 @@ Only the **host** needs this mod installed, friends can join without downloading
    - Copy the `.dll` into `BepInEx/plugins/` inside your game folder.
 
 3. **Launch the game**
-   - just play the game 
+   - Launch the game normally through steam.
   
 ## Disclaimers
    - This only changes the vanilla lobby cap, any issues with the gameplay itself are not addressed with this mod.
