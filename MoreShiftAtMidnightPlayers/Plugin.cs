@@ -24,7 +24,7 @@ namespace MoreShiftAtMidnightPlayers
                 8,
                 new ConfigDescription(
                     "Max players per session",
-                    new AcceptableValueRange<int>(2, 32)
+                    new AcceptableValueRange<int>(2, 99)
                 )
             );
 
