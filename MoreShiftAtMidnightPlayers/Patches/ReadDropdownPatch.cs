@@ -10,8 +10,8 @@ namespace MoreShiftAtMidnightPlayers.Patches
         {
             try
             {
-                int chosenValue = __instance.maxPlayersDropdown.value + 1; 
-                Plugin.SelectedMaxPlayers = Math.Clamp(chosenValue, 1, 8);
+                int chosenValue = __instance.maxPlayersDropdown.value + 1;
+                Plugin.SelectedMaxPlayers = Math.Clamp(chosenValue, 1, Plugin.MaxPlayers.Value);
 
                 Plugin.MyLog.LogInfo($"Host selected max players = {Plugin.SelectedMaxPlayers}");
             }

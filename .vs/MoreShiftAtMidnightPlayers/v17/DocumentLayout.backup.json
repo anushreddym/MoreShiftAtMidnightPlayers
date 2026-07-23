@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|c:\\users\\anumu\\desktop\\moreshiftatmidnightplayers\\moreshiftatmidnightplayers\\patches\\readdropdownpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|solutionrelative:moreshiftatmidnightplayers\\patches\\readdropdownpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|c:\\users\\anumu\\desktop\\moreshiftatmidnightplayers\\moreshiftatmidnightplayers\\patches\\extenddropdownpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|solutionrelative:moreshiftatmidnightplayers\\patches\\extenddropdownpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|c:\\users\\anumu\\desktop\\moreshiftatmidnightplayers\\moreshiftatmidnightplayers\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|solutionrelative:moreshiftatmidnightplayers\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|c:\\users\\anumu\\desktop\\moreshiftatmidnightplayers\\moreshiftatmidnightplayers\\patches\\mainmenueastereggpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|solutionrelative:moreshiftatmidnightplayers\\patches\\mainmenueastereggpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|c:\\users\\anumu\\desktop\\moreshiftatmidnightplayers\\moreshiftatmidnightplayers\\patches\\hostlobbypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|solutionrelative:moreshiftatmidnightplayers\\patches\\hostlobbypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|c:\\users\\anumu\\desktop\\moreshiftatmidnightplayers\\moreshiftatmidnightplayers\\patches\\fusionstartgamepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|solutionrelative:moreshiftatmidnightplayers\\patches\\fusionstartgamepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|c:\\users\\anumu\\desktop\\moreshiftatmidnightplayers\\moreshiftatmidnightplayers\\patches\\texttoggler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|solutionrelative:moreshiftatmidnightplayers\\patches\\texttoggler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|c:\\users\\anumu\\desktop\\moreshiftatmidnightplayers\\moreshiftatmidnightplayers\\patches\\steamlobbypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|solutionrelative:moreshiftatmidnightplayers\\patches\\steamlobbypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|c:\\users\\anumu\\desktop\\moreshiftatmidnightplayers\\moreshiftatmidnightplayers\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{225241BB-5BB3-4CB4-9E04-AE9474727BB4}|MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers.csproj|solutionrelative:moreshiftatmidnightplayers\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FusionStartGamePatch.cs",
+              "DocumentMoniker": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Patches\\FusionStartGamePatch.cs",
+              "RelativeDocumentMoniker": "MoreShiftAtMidnightPlayers\\Patches\\FusionStartGamePatch.cs",
+              "ToolTip": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Patches\\FusionStartGamePatch.cs",
+              "RelativeToolTip": "MoreShiftAtMidnightPlayers\\Patches\\FusionStartGamePatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T02:18:41.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HostLobbyPatch.cs",
+              "DocumentMoniker": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Patches\\HostLobbyPatch.cs",
+              "RelativeDocumentMoniker": "MoreShiftAtMidnightPlayers\\Patches\\HostLobbyPatch.cs",
+              "ToolTip": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Patches\\HostLobbyPatch.cs",
+              "RelativeToolTip": "MoreShiftAtMidnightPlayers\\Patches\\HostLobbyPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T02:18:20.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\.gitignore",
+              "RelativeDocumentMoniker": "MoreShiftAtMidnightPlayers\\.gitignore",
+              "ToolTip": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\.gitignore",
+              "RelativeToolTip": "MoreShiftAtMidnightPlayers\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-22T22:51:19.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextToggler.cs",
+              "DocumentMoniker": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Patches\\TextToggler.cs",
+              "RelativeDocumentMoniker": "MoreShiftAtMidnightPlayers\\Patches\\TextToggler.cs",
+              "ToolTip": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Patches\\TextToggler.cs",
+              "RelativeToolTip": "MoreShiftAtMidnightPlayers\\Patches\\TextToggler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T22:35:23.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuEasterEggPatch.cs",
+              "DocumentMoniker": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Patches\\MainMenuEasterEggPatch.cs",
+              "RelativeDocumentMoniker": "MoreShiftAtMidnightPlayers\\Patches\\MainMenuEasterEggPatch.cs",
+              "ToolTip": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Patches\\MainMenuEasterEggPatch.cs",
+              "RelativeToolTip": "MoreShiftAtMidnightPlayers\\Patches\\MainMenuEasterEggPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T20:59:35.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadDropdownPatch.cs",
+              "DocumentMoniker": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Patches\\ReadDropdownPatch.cs",
+              "RelativeDocumentMoniker": "MoreShiftAtMidnightPlayers\\Patches\\ReadDropdownPatch.cs",
+              "ToolTip": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Patches\\ReadDropdownPatch.cs",
+              "RelativeToolTip": "MoreShiftAtMidnightPlayers\\Patches\\ReadDropdownPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T20:52:15.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtendDropdownPatch.cs",
+              "DocumentMoniker": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Patches\\ExtendDropdownPatch.cs",
+              "RelativeDocumentMoniker": "MoreShiftAtMidnightPlayers\\Patches\\ExtendDropdownPatch.cs",
+              "ToolTip": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Patches\\ExtendDropdownPatch.cs",
+              "RelativeToolTip": "MoreShiftAtMidnightPlayers\\Patches\\ExtendDropdownPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T20:50:14.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SteamLobbyPatch.cs",
+              "DocumentMoniker": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Patches\\SteamLobbyPatch.cs",
+              "RelativeDocumentMoniker": "MoreShiftAtMidnightPlayers\\Patches\\SteamLobbyPatch.cs",
+              "ToolTip": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Patches\\SteamLobbyPatch.cs",
+              "RelativeToolTip": "MoreShiftAtMidnightPlayers\\Patches\\SteamLobbyPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T20:44:44.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Plugin.cs",
+              "RelativeDocumentMoniker": "MoreShiftAtMidnightPlayers\\Plugin.cs",
+              "ToolTip": "C:\\Users\\anumu\\Desktop\\MoreShiftAtMidnightPlayers\\MoreShiftAtMidnightPlayers\\Plugin.cs",
+              "RelativeToolTip": "MoreShiftAtMidnightPlayers\\Plugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T20:32:29.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

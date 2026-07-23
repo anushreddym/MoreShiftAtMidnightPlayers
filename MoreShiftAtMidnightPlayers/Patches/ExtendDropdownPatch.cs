@@ -14,7 +14,7 @@ namespace MoreShiftAtMidnightPlayers.Patches
             {
                 TMP_Dropdown dropdown = __instance.maxPlayersDropdown;
                 if (dropdown == null || dropdown.options == null) return;
-                int desiredMax = 99;
+                int desiredMax = Plugin.MaxPlayers.Value;
 
                 while (dropdown.options.Count < desiredMax)
                 {
