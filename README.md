@@ -29,6 +29,18 @@ Only the **host** needs this mod installed, friends can join without downloading
 
 3. **Launch the game**
    - Launch the game normally through steam.
+
+## Configuration
+
+After launching the game once with the mod installed, a config file is generated at: BepInEx/config/com.curiosity.moreshiftatmidnightplayers.cfg
+
+Open it in any text editor and change:
+
+```ini
+[General]
+MaxPlayers = 8
+```
+to any number between 2 and 99.
   
 ## Disclaimers
    - This only changes the vanilla lobby cap, any issues with the gameplay itself are not addressed with this mod.
